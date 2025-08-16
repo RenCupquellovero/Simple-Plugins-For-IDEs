@@ -22,6 +22,12 @@
     "name": "Joke Generator",
     "description": "Displays a random programmer joke in the terminal",
     "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/joke_gen.py"
+  },
+  {
+    "plugin_id": "byteterm",
+    "name": "Byte Terminal"
+    "description": "official byte terminal"
+    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/byte_terminal.py"
   }
 ]
 

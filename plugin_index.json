@@ -1,33 +1,32 @@
 [
-  {
-    "plugin_id": "system_pulse",
-    "name": "System Pulse",
-    "description": "Monitor CPU, RAM, and disk usage",
-    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/system_pulse.py"
-  },
-  {
-    "plugin_id": "terminal_snake",
-    "name": "Terminal Snake",
-    "description": "Simple Snake Game",
-    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/terminal_snake.py"
-  },
-  {
-    "plugin_id": "quick_notes",
-    "name": "Quick Notes",
-    "description": "Write and save short notes to notes.txt",
-    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/quick_notes.py"
-  },
-  {
-    "plugin_id": "joke_gen",
-    "name": "Joke Generator",
-    "description": "Displays a random programmer joke in the terminal",
-    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/joke_gen.py"
-  },
-  {
-    "plugin_id": "byteterm",
-    "name": "Byte Terminal",
-    "description": "official byte terminal",
-    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/byte_terminal.py"
-  }
+    {
+        "plugin_id": "system_pulse",
+        "name": "System Pulse",
+        "description": "Monitor CPU, RAM, and disk usage",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/system_pulse.py"
+    },
+    {
+        "plugin_id": "terminal_snake",
+        "name": "Terminal Snake",
+        "description": "Simple Snake Game",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/terminal_snake.py"
+    },
+    {
+        "plugin_id": "quick_notes",
+        "name": "Quick Notes",
+        "description": "Write and save short notes to notes.txt",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/quick_notes.py"
+    },
+    {
+        "plugin_id": "joke_gen",
+        "name": "Joke Generator",
+        "description": "Displays a random programmer joke in the terminal",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/joke_gen.py"
+    },
+    {
+        "plugin_id": "byteterm",
+        "name": "Byte Terminal",
+        "description": "Official ByteOS terminal plugin",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/byte_terminal.py"
+    }
 ]
-

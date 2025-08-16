@@ -10,5 +10,18 @@
     "name": "Terminal Snake",
     "description": "Simple Snake Game",
     "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/terminal_snake.py"
+  },
+  {
+    "plugin_id": "quick_notes",
+    "name": "Quick Notes",
+    "description": "Write and save short notes to notes.txt",
+    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/CopilotWorkspace/main/plugins/quick_notes.py"
+  },
+  {
+    "plugin_id": "joke_gen",
+    "name": "Joke Generator",
+    "description": "Displays a random programmer joke in the terminal",
+    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/CopilotWorkspace/main/plugins/joke_gen.py"
   }
 ]
+

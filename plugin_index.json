@@ -28,5 +28,12 @@
         "name": "Byte Terminal",
         "description": "Official ByteOS terminal plugin",
         "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/byte_terminal.py"
+    },
+    {
+        "plugin_id": "ByteNavigator",
+        "name": "ByteNavigator",
+        "description": "A curses-based file explorer with clipboard and keybind legend",
+        "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/ByteNavigator.py"
     }
+        
 ]

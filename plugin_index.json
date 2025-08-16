@@ -3,6 +3,6 @@
     "plugin_id": "system_pulse",
     "name": "System Pulse",
     "description": "Monitor CPU, RAM, and disk usage",
-    "source_url": "https://raw.githubusercontent.com/RenCup/byteos-plugins/main/plugins/system_pulse.py"
+    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/refs/heads/main/plugins/system_pulse.py"
   }
 ]

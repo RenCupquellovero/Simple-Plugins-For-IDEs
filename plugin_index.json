@@ -5,4 +5,10 @@
     "description": "Monitor CPU, RAM, and disk usage",
     "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/system_pulse.py"
   }
+  {
+    "plugin_id": "terminal_snake",
+    "name": "Terminal Snake",
+    "description": "Simple Snake Game",
+    "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/terminal_snake.py"
+  }
 ]

@@ -12,7 +12,8 @@ def run(stdscr):
     curses.curs_set(0)
     stdscr.nodelay(True)
 
-    while True:
+    running = True
+    while running:
         stdscr.clear()
         stdscr.addstr(0, 0, "🧠 System Pulse Monitor", curses.A_BOLD)
 
@@ -33,5 +34,11 @@ def run(stdscr):
 
         key = stdscr.getch()
         if key in [ord('q'), ord('Q')]:
-            break
-        time.sleep(0.5)
+            running = False
+
+    # ✅ Cleanup after loop ends
+    stdscr.nodelay(False)
+    curses.curs_set(1)
+    stdscr.clear()
+    stdscr.refresh()
+    time.sleep(0.2)

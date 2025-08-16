@@ -25,8 +25,8 @@
   },
   {
     "plugin_id": "byteterm",
-    "name": "Byte Terminal"
-    "description": "official byte terminal"
+    "name": "Byte Terminal",
+    "description": "official byte terminal",
     "source_url": "https://raw.githubusercontent.com/RenCupquellovero/Simple-Plugins-For-IDEs/main/plugins/byte_terminal.py"
   }
 ]
